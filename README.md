@@ -4,4 +4,4 @@ Today I learned, nyanye가 읽은 논문에 대한 리뷰를 공유하고 보존
 
 # Reviews
 
-[Resource Optimized Neural Architecture Search for 3D Medical Image Segmentation](./Resource Optimized Neural Architecture Search_nyanye.pdf)
+[Resource Optimized Neural Architecture Search for 3D Medical Image Segmentation](https://github.com/nyanye/Paper-review/blob/master/Resource%20Optimized%20Neural%20Architecture%20Search_nyanye.pdf)
